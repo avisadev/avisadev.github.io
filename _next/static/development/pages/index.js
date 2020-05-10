@@ -10544,28 +10544,28 @@ function Index() {
       lineNumber: 61,
       columnNumber: 15
     }
-  }, "Machine", __jsx("br", {
+  }, "Autonomous", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 69,
       columnNumber: 17
     }
-  }), "Learning for", __jsx("br", {
+  }), "Systems by", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 71,
       columnNumber: 17
     }
-  }), "the Internet of", __jsx("br", {
+  }), "Cloud and", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 73,
       columnNumber: 17
     }
-  }), "Things (IoT)"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
+  }), "Edge Computing"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
     sx: {
       fontSize: [2, 2, 2, 3],
       fontWeight: "medium",
@@ -10901,28 +10901,28 @@ function Index() {
       lineNumber: 189,
       columnNumber: 15
     }
-  }, "Autonomous", __jsx("br", {
+  }, "Machine", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 197,
       columnNumber: 17
     }
-  }), "Systems by", __jsx("br", {
+  }), "Learning for", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 199,
       columnNumber: 17
     }
-  }), "Cloud and", __jsx("br", {
+  }), "the Internet of", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 201,
       columnNumber: 17
     }
-  }), "Edge Computing"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
+  }), "Things (IoT)"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
     sx: {
       fontSize: [2, 2, 2, 3],
       fontWeight: "medium",
@@ -10934,7 +10934,7 @@ function Index() {
       lineNumber: 204,
       columnNumber: 15
     }
-  }, "Machine Learning Deployments using", __jsx("br", {
+  }, "Machine Learning Operations using", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -11075,6 +11075,13 @@ function Index() {
       lineNumber: 283,
       columnNumber: 7
     }
+  }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Container"], {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 284,
+      columnNumber: 9
+    }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Flex"], {
     sx: {
       justifyContent: "center"
@@ -11082,15 +11089,15 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 284,
-      columnNumber: 9
+      lineNumber: 285,
+      columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 285,
-      columnNumber: 11
+      lineNumber: 286,
+      columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
     alt: "CloudEdge",
@@ -11102,48 +11109,48 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 286,
-      columnNumber: 13
+      lineNumber: 287,
+      columnNumber: 15
     }
   }))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Flex"], {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 293,
-      columnNumber: 9
-    }
-  }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
-    color: "white",
-    px: 5,
-    pb: 4,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 294,
       columnNumber: 11
     }
-  }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
+  }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
+    color: "white",
+    px: 1,
+    pb: 4,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 295,
       columnNumber: 13
     }
-  }, __jsx("b", {
+  }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 296,
       columnNumber: 15
     }
+  }, __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 297,
+      columnNumber: 17
+    }
   }, "AVISA Platform")), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 298,
-      columnNumber: 13
+      lineNumber: 299,
+      columnNumber: 15
     }
-  }, "Copyright \xA9 2020 Artin Kajal Ltd. All rights reserved.")))));
+  }, "Copyright \xA9 2020 Artin Kajal Ltd. All rights reserved."))))));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);

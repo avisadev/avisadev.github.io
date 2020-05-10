@@ -10544,28 +10544,28 @@ function Index() {
       lineNumber: 61,
       columnNumber: 15
     }
-  }, "Autonomous", __jsx("br", {
+  }, "Machine", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 69,
       columnNumber: 17
     }
-  }), "Systems by", __jsx("br", {
+  }), "Learning for", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 71,
       columnNumber: 17
     }
-  }), "Cloud and", __jsx("br", {
+  }), "the Internet of", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 73,
       columnNumber: 17
     }
-  }), "Edge Computing"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
+  }), "Things (IoT)"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
     sx: {
       fontSize: [2, 2, 2, 3],
       fontWeight: "medium",
@@ -10628,27 +10628,44 @@ function Index() {
     }
   })), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     px: 5,
+    sx: {
+      textAlign: "center"
+    },
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 101,
       columnNumber: 13
     }
-  }, "Card...")), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
+  }, __jsx("h1", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 102,
+      columnNumber: 15
+    }
+  }, "On-Device AI"), __jsx("p", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 103,
+      columnNumber: 15
+    }
+  }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam purus sit amet luctus venenatis lectus magna fringilla."))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     sx: {
       flex: "1 1 auto"
     },
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 103,
+      lineNumber: 110,
       columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 104,
+      lineNumber: 111,
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
@@ -10661,25 +10678,42 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 105,
+      lineNumber: 112,
       columnNumber: 15
     }
   })), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     px: 5,
+    sx: {
+      textAlign: "center"
+    },
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 112,
+      lineNumber: 119,
       columnNumber: 13
     }
-  }, "Card..."))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Flex"], {
+  }, __jsx("h1", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 120,
+      columnNumber: 15
+    }
+  }, "Serverless Computing"), __jsx("p", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 121,
+      columnNumber: 15
+    }
+  }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam purus sit amet luctus venenatis lectus magna fringilla.")))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Flex"], {
     sx: {
       flexDirection: ["column",, "row"]
     },
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 115,
+      lineNumber: 129,
       columnNumber: 9
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -10689,14 +10723,14 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 116,
+      lineNumber: 130,
       columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 117,
+      lineNumber: 131,
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
@@ -10709,32 +10743,49 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 118,
+      lineNumber: 132,
       columnNumber: 15
     }
   })), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     px: 5,
+    sx: {
+      textAlign: "center"
+    },
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 125,
+      lineNumber: 139,
       columnNumber: 13
     }
-  }, "Card...")), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
+  }, __jsx("h1", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 140,
+      columnNumber: 15
+    }
+  }, "Distributed Streaming"), __jsx("p", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 141,
+      columnNumber: 15
+    }
+  }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam purus sit amet luctus venenatis lectus magna fringilla."))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     sx: {
       flex: "1 1 auto"
     },
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 127,
+      lineNumber: 148,
       columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 128,
+      lineNumber: 149,
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
@@ -10747,31 +10798,48 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 129,
+      lineNumber: 150,
       columnNumber: 15
     }
   })), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     px: 5,
+    sx: {
+      textAlign: "center"
+    },
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 136,
+      lineNumber: 157,
       columnNumber: 13
     }
-  }, "Card...")))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
+  }, __jsx("h1", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 158,
+      columnNumber: 15
+    }
+  }, "GPU-Accelerated Inference"), __jsx("p", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 159,
+      columnNumber: 15
+    }
+  }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam purus sit amet luctus venenatis lectus magna fringilla."))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     as: "section",
     bg: "#ffafa2",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 141,
+      lineNumber: 169,
       columnNumber: 7
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Container"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 142,
+      lineNumber: 170,
       columnNumber: 9
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Flex"], {
@@ -10781,7 +10849,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 143,
+      lineNumber: 171,
       columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -10793,7 +10861,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 144,
+      lineNumber: 172,
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
@@ -10805,7 +10873,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 149,
+      lineNumber: 177,
       columnNumber: 15
     }
   })), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -10818,7 +10886,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 155,
+      lineNumber: 183,
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
@@ -10830,28 +10898,28 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 161,
+      lineNumber: 189,
       columnNumber: 15
     }
   }, "Autonomous", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 169,
+      lineNumber: 197,
       columnNumber: 17
     }
   }), "Systems by", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 171,
+      lineNumber: 199,
       columnNumber: 17
     }
   }), "Cloud and", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 173,
+      lineNumber: 201,
       columnNumber: 17
     }
   }), "Edge Computing"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
@@ -10863,10 +10931,17 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 176,
+      lineNumber: 204,
       columnNumber: 15
     }
-  }, "Create smart ecosystems!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
+  }, "Machine Learning Deployments using", __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 212,
+      columnNumber: 17
+    }
+  }), "CI/CD Pipelines"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     as: "section",
     bg: "#f6f6f6",
     sx: {
@@ -10875,7 +10950,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 190,
+      lineNumber: 220,
       columnNumber: 7
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Container"], {
@@ -10886,7 +10961,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 191,
+      lineNumber: 221,
       columnNumber: 9
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -10896,21 +10971,21 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 192,
+      lineNumber: 222,
       columnNumber: 11
     }
   }, __jsx("h1", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 193,
+      lineNumber: 223,
       columnNumber: 13
     }
   }, "Features"), __jsx("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 194,
+      lineNumber: 224,
       columnNumber: 13
     }
   }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Ac odio tempor orci dapibus ultrices in iaculis. Ultrices in iaculis nunc sed augue lacus viverra. Mollis nunc sed id semper risus in hendrerit gravida. Cras pulvinar mattis nunc sed blandit libero. Justo donec enim diam vulputate ut pharetra sit. Gravida dictum fusce ut placerat orci. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Et molestie ac feugiat sed lectus. Turpis egestas integer eget aliquet nibh. Feugiat vivamus at augue eget arcu dictum varius. Nisi porta lorem mollis aliquam ut. Adipiscing at in tellus integer. Pellentesque elit ullamcorper dignissim cras tincidunt.")), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -10924,7 +10999,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 210,
+      lineNumber: 240,
       columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -10936,7 +11011,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 219,
+      lineNumber: 249,
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
@@ -10948,7 +11023,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 226,
+      lineNumber: 256,
       columnNumber: 15
     }
   }))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Container"], {
@@ -10957,47 +11032,47 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 236,
+      lineNumber: 266,
       columnNumber: 7
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 237,
+      lineNumber: 267,
       columnNumber: 9
     }
   }, __jsx("h1", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 238,
+      lineNumber: 268,
       columnNumber: 11
     }
-  }, "AVISA Design"), __jsx("a", {
+  }, "AVISA Design"), __jsx("p", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 269,
+      columnNumber: 11
+    }
+  }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Ac odio tempor orci dapibus ultrices in iaculis. Ultrices in iaculis nunc sed augue lacus viverra. Mollis nunc sed id semper risus in hendrerit gravida."), __jsx("a", {
     href: "https://design.avisa.dev",
     target: "_blank",
     rel: "noopener",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 239,
+      lineNumber: 277,
       columnNumber: 11
     }
-  }, "design.avisa.dev"), __jsx("p", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 242,
-      columnNumber: 11
-    }
-  }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Ac odio tempor orci dapibus ultrices in iaculis. Ultrices in iaculis nunc sed augue lacus viverra. Mollis nunc sed id semper risus in hendrerit gravida."))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
+  }, "design.avisa.dev"))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     as: "section",
     bg: "#000",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 253,
+      lineNumber: 283,
       columnNumber: 7
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Flex"], {
@@ -11007,14 +11082,14 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 254,
+      lineNumber: 284,
       columnNumber: 9
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 255,
+      lineNumber: 285,
       columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
@@ -11027,14 +11102,14 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 256,
+      lineNumber: 286,
       columnNumber: 13
     }
   }))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Flex"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 263,
+      lineNumber: 293,
       columnNumber: 9
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -11044,28 +11119,28 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 264,
+      lineNumber: 294,
       columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 265,
+      lineNumber: 295,
       columnNumber: 13
     }
   }, __jsx("b", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 266,
+      lineNumber: 296,
       columnNumber: 15
     }
   }, "AVISA Platform")), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 268,
+      lineNumber: 298,
       columnNumber: 13
     }
   }, "Copyright \xA9 2020 Artin Kajal Ltd. All rights reserved.")))));

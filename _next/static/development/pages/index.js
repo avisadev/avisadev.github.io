@@ -10623,7 +10623,7 @@ function Index() {
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
     px: 5,
     alt: "CloudEdge",
-    src: "./feature.webp",
+    src: "./qualcomm.png",
     sx: {
       maxWidth: "100%"
     },
@@ -10678,7 +10678,7 @@ function Index() {
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
     px: 5,
     alt: "CloudEdge",
-    src: "./feature.webp",
+    src: "./knative.png",
     sx: {
       maxWidth: "100%"
     },
@@ -10743,7 +10743,7 @@ function Index() {
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
     px: 5,
     alt: "CloudEdge",
-    src: "./feature.webp",
+    src: "./kafka.jpeg",
     sx: {
       maxWidth: "100%"
     },
@@ -10798,7 +10798,7 @@ function Index() {
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
     px: 5,
     alt: "CloudEdge",
-    src: "./feature.webp",
+    src: "./nvidia.png",
     sx: {
       maxWidth: "100%"
     },
@@ -10872,8 +10872,8 @@ function Index() {
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
-    alt: "CloudEdge",
-    src: "./colors.jpg",
+    alt: "omse.tumbler.com",
+    src: "./continuous.jpg",
     sx: {
       maxWidth: "100%"
     },
@@ -11101,7 +11101,7 @@ function Index() {
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
     alt: "CloudEdge",
-    src: "./earth.jpg",
+    src: "./footer4.jpeg",
     sx: {
       width: "320px",
       maxWidth: "100%"

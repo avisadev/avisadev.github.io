@@ -513,28 +513,28 @@ function Index() {
       lineNumber: 189,
       columnNumber: 15
     }
-  }, "Machine", __jsx("br", {
+  }, "Continuous", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 197,
       columnNumber: 17
     }
-  }), "Learning for", __jsx("br", {
+  }), "Improvement to", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 199,
       columnNumber: 17
     }
-  }), "the Internet of", __jsx("br", {
+  }), "ML Models in", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 201,
       columnNumber: 17
     }
-  }), "Things (IoT)"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
+  }), "Production"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
     sx: {
       fontSize: [2, 2, 2, 3],
       fontWeight: "medium",
@@ -546,14 +546,14 @@ function Index() {
       lineNumber: 204,
       columnNumber: 15
     }
-  }, "Machine Learning Operations using", __jsx("br", {
+  }, "Machine Learning for", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 212,
       columnNumber: 17
     }
-  }), "CI/CD Pipelines"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
+  }), "the Internet of Things (IoT)"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     as: "section",
     bg: "#f6f6f6",
     sx: {
@@ -770,4 +770,4 @@ function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.ad656846b13b365ef199.hot-update.js.map
+//# sourceMappingURL=index.js.5d47f969f71a4dbc2369.hot-update.js.map

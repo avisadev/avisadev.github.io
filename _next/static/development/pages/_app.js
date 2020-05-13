@@ -11557,7 +11557,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var theme_ui__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! theme-ui */ "./node_modules/theme-ui/dist/index.esm.js");
 
 
-var _jsxFileName = "/home/navid/avisa/www.avisa.dev/pages/_app.js";
+var _jsxFileName = "/home/navid/avisa/pwa.avisa/pages/_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
@@ -11608,7 +11608,7 @@ function MyApp(_ref) {
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js&hotRouterUpdates=true!./");
-module.exports = __webpack_require__(/*! /home/navid/avisa/www.avisa.dev/node_modules/next/dist/client/router.js */"./node_modules/next/dist/client/router.js");
+module.exports = __webpack_require__(/*! /home/navid/avisa/pwa.avisa/node_modules/next/dist/client/router.js */"./node_modules/next/dist/client/router.js");
 
 
 /***/ }),

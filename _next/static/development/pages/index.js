@@ -5570,10 +5570,10 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fwww.avisa.dev%2Fpages%2Findex.js&hotRouterUpdates=true!./":
-/*!*********************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fwww.avisa.dev%2Fpages%2Findex.js&hotRouterUpdates=true ***!
-  \*********************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fpwa.avisa%2Fpages%2Findex.js&hotRouterUpdates=true!./":
+/*!*****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fpwa.avisa%2Fpages%2Findex.js&hotRouterUpdates=true ***!
+  \*****************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10402,7 +10402,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var theme_ui__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! theme-ui */ "./node_modules/theme-ui/dist/index.esm.js");
-var _jsxFileName = "/home/navid/avisa/www.avisa.dev/pages/index.js";
+var _jsxFileName = "/home/navid/avisa/pwa.avisa/pages/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
  // import withData from "../lib/withData";
 // import BlogPosts from "../components/BlogPosts";
@@ -10497,7 +10497,7 @@ function Index() {
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     px: 2,
-    py: [1, 1, 3, 4],
+    py: [2, 2, 3, 4],
     sx: {
       flex: ["1 1 auto",, "0 0 50%"]
     },
@@ -10511,6 +10511,8 @@ function Index() {
     alt: "CloudEdge",
     src: "./cloudedge.jpg",
     sx: {
+      display: "block",
+      height: "auto",
       maxWidth: "100%"
     },
     __self: this,
@@ -10587,7 +10589,7 @@ function Index() {
   }), "the Internet of Things (IoT)"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Container"], {
     as: "section",
     pt: 5,
-    pb: 7,
+    pb: 6,
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -10626,6 +10628,8 @@ function Index() {
     alt: "CloudEdge",
     src: "./qualcomm.png",
     sx: {
+      display: "block",
+      height: "auto",
       maxWidth: "100%"
     },
     __self: this,
@@ -10681,6 +10685,8 @@ function Index() {
     alt: "CloudEdge",
     src: "./knative.png",
     sx: {
+      display: "block",
+      height: "auto",
       maxWidth: "100%"
     },
     __self: this,
@@ -10746,6 +10752,8 @@ function Index() {
     alt: "CloudEdge",
     src: "./kafka.jpeg",
     sx: {
+      display: "block",
+      height: "auto",
       maxWidth: "100%"
     },
     __self: this,
@@ -10801,6 +10809,8 @@ function Index() {
     alt: "CloudEdge",
     src: "./nvidia.png",
     sx: {
+      display: "block",
+      height: "auto",
       maxWidth: "100%"
     },
     __self: this,
@@ -10851,6 +10861,7 @@ function Index() {
       columnNumber: 9
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Flex"], {
+    pt: [5,, 0],
     sx: {
       flexDirection: ["column-reverse",, "row"]
     },
@@ -10861,31 +10872,33 @@ function Index() {
       columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
-    px: 2,
-    py: [1, 1, 3, 4],
+    px: [2, 2, 3, 4],
+    py: [2, 2, 3, 4],
     sx: {
       flex: ["1 1 auto",, "0 0 50%"]
     },
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 174,
+      lineNumber: 177,
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
     alt: "omse.tumbler.com",
     src: "./continuous.jpg",
     sx: {
+      display: "block",
+      height: "auto",
       maxWidth: "100%"
     },
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 179,
+      lineNumber: 182,
       columnNumber: 15
     }
   })), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
-    px: [2, 2, 3, 4],
+    px: [2, 2, 2, 3],
     py: [2, 2, 4, 5],
     pt: [4, 4, 4, 5],
     sx: {
@@ -10894,7 +10907,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 185,
+      lineNumber: 188,
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
@@ -10906,28 +10919,28 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 191,
+      lineNumber: 194,
       columnNumber: 15
     }
   }, "Continuous", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 199,
+      lineNumber: 202,
       columnNumber: 17
     }
   }), "Improvement to", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 201,
+      lineNumber: 204,
       columnNumber: 17
     }
   }), "ML Models", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 203,
+      lineNumber: 206,
       columnNumber: 17
     }
   }), "in Production"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
@@ -10939,7 +10952,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 206,
+      lineNumber: 209,
       columnNumber: 15
     }
   }, "Create smart ecosystems!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -10951,18 +10964,19 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 220,
+      lineNumber: 223,
       columnNumber: 7
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Container"], {
     py: 6,
+    px: 2,
     sx: {
       position: "relative"
     },
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 221,
+      lineNumber: 224,
       columnNumber: 9
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -10972,21 +10986,21 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 222,
+      lineNumber: 225,
       columnNumber: 11
     }
   }, __jsx("h1", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 223,
+      lineNumber: 226,
       columnNumber: 13
     }
-  }, "About"), __jsx("p", {
+  }, "Universal intelligence!"), __jsx("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 224,
+      lineNumber: 227,
       columnNumber: 13
     }
   }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Ac odio tempor orci dapibus ultrices in iaculis. Ultrices in iaculis nunc sed augue lacus viverra. Mollis nunc sed id semper risus in hendrerit gravida. Cras pulvinar mattis nunc sed blandit libero. Justo donec enim diam vulputate ut pharetra sit. Gravida dictum fusce ut placerat orci. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Et molestie ac feugiat sed lectus. Turpis egestas integer eget aliquet nibh. Feugiat vivamus at augue eget arcu dictum varius. Nisi porta lorem mollis aliquam ut. Adipiscing at in tellus integer. Pellentesque elit ullamcorper dignissim cras tincidunt.")), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -11000,7 +11014,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 240,
+      lineNumber: 243,
       columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -11012,7 +11026,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 249,
+      lineNumber: 252,
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
@@ -11024,37 +11038,38 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 256,
+      lineNumber: 259,
       columnNumber: 15
     }
   }))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Container"], {
     as: "section",
     py: 5,
+    px: 2,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 266,
+      lineNumber: 269,
       columnNumber: 7
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 267,
+      lineNumber: 270,
       columnNumber: 9
     }
   }, __jsx("h1", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 268,
+      lineNumber: 271,
       columnNumber: 11
     }
   }, "AVISA Design"), __jsx("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 269,
+      lineNumber: 272,
       columnNumber: 11
     }
   }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Ac odio tempor orci dapibus ultrices in iaculis. Ultrices in iaculis nunc sed augue lacus viverra. Mollis nunc sed id semper risus in hendrerit gravida."), __jsx("a", {
@@ -11064,7 +11079,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 277,
+      lineNumber: 280,
       columnNumber: 11
     }
   }, "design.avisa.dev"))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
@@ -11073,14 +11088,14 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 283,
+      lineNumber: 286,
       columnNumber: 7
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Container"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 284,
+      lineNumber: 287,
       columnNumber: 9
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Flex"], {
@@ -11090,65 +11105,67 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 285,
+      lineNumber: 288,
       columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 286,
+      lineNumber: 289,
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Image"], {
     alt: "CloudEdge",
     src: "./footer4.jpeg",
     sx: {
-      width: "320px",
-      maxWidth: "100%"
+      display: "block",
+      height: "auto",
+      maxWidth: "100%",
+      width: "320px"
     },
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 287,
+      lineNumber: 290,
       columnNumber: 15
     }
   }))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Flex"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 294,
+      lineNumber: 297,
       columnNumber: 11
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Box"], {
     color: "white",
-    px: 1,
+    px: 2,
     pb: 4,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 295,
+      lineNumber: 298,
       columnNumber: 13
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 296,
+      lineNumber: 299,
       columnNumber: 15
     }
   }, __jsx("b", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 297,
+      lineNumber: 300,
       columnNumber: 17
     }
   }, "AVISA Platform")), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Text"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 299,
+      lineNumber: 302,
       columnNumber: 15
     }
   }, "Copyright \xA9 2020 Artin Kajal Ltd. All rights reserved."))))));
@@ -11159,13 +11176,13 @@ function Index() {
 /***/ }),
 
 /***/ 2:
-/*!*************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fwww.avisa.dev%2Fpages%2Findex.js&hotRouterUpdates=true ***!
-  \*************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fpwa.avisa%2Fpages%2Findex.js&hotRouterUpdates=true ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fwww.avisa.dev%2Fpages%2Findex.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fwww.avisa.dev%2Fpages%2Findex.js&hotRouterUpdates=true!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fpwa.avisa%2Fpages%2Findex.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fpwa.avisa%2Fpages%2Findex.js&hotRouterUpdates=true!./");
 
 
 /***/ }),

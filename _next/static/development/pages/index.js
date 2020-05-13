@@ -10861,7 +10861,7 @@ function Index() {
       columnNumber: 9
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_2__["Flex"], {
-    pt: [5,, 0],
+    pt: [6,, 0],
     sx: {
       flexDirection: ["column-reverse",, "row"]
     },

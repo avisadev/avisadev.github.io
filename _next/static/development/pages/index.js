@@ -11353,7 +11353,7 @@ function Index() {
       columnNumber: 9
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Flex"], {
-    pt: [6,, 0],
+    pt: [4,, 0],
     sx: {
       flexDirection: ["column-reverse",, "row"]
     },

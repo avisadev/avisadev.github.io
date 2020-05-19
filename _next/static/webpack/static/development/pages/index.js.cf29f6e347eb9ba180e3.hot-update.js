@@ -217,7 +217,7 @@ function Index() {
       lineNumber: 88,
       columnNumber: 17
     }
-  }), "the Internet of Things (IoT)"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
+  }), "the Internet of Things (IoT)!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
     as: "section",
     pt: 5,
     pb: 6,
@@ -492,7 +492,7 @@ function Index() {
       columnNumber: 9
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Flex"], {
-    pt: [3,, 0],
+    pt: [4,, 0],
     sx: {
       flexDirection: ["column-reverse",, "row"]
     },
@@ -807,4 +807,4 @@ function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.dad919934bb9665c656f.hot-update.js.map
+//# sourceMappingURL=index.js.cf29f6e347eb9ba180e3.hot-update.js.map

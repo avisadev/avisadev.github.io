@@ -11078,7 +11078,7 @@ function Index() {
       lineNumber: 88,
       columnNumber: 17
     }
-  }), "the Internet of Things (IoT)"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
+  }), "the Internet of Things (IoT)!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
     as: "section",
     pt: 5,
     pb: 6,
@@ -11667,7 +11667,7 @@ function Index() {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!*********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fpwa.avisa%2Fpages%2Findex.js&hotRouterUpdates=true ***!
   \*********************************************************************************************************************************************/
@@ -11690,5 +11690,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

@@ -177,28 +177,28 @@ function Index() {
       lineNumber: 65,
       columnNumber: 15
     }
-  }, "Leverage", __jsx("br", {
+  }, "Empower", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 73,
       columnNumber: 17
     }
-  }), "Machine Learning for", __jsx("br", {
+  }), "Machine Learning", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 75,
       columnNumber: 17
     }
-  }), "Economic Systems", __jsx("br", {
+  }), "for Economic", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 77,
       columnNumber: 17
     }
-  }), "Design"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Text"], {
+  }), "Systems Design"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Text"], {
     sx: {
       fontSize: [2, 2, 2, 3],
       fontWeight: "medium",
@@ -210,14 +210,14 @@ function Index() {
       lineNumber: 80,
       columnNumber: 15
     }
-  }, "Develop Machine Learning for", __jsx("br", {
+  }, "Develop ML & IoT using", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 88,
       columnNumber: 17
     }
-  }), "Economic Systems Design!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
+  }), "Cloud Edge Computing!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
     as: "section",
     pt: 5,
     pb: 6,
@@ -807,4 +807,4 @@ function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.ece61025b37d5f7c1555.hot-update.js.map
+//# sourceMappingURL=index.js.453900c261244d6ec971.hot-update.js.map

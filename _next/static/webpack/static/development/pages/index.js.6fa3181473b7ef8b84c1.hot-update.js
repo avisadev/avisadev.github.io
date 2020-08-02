@@ -210,7 +210,7 @@ function Index() {
       lineNumber: 80,
       columnNumber: 15
     }
-  }, "ML & IoT Platform with", __jsx("br", {
+  }, "A ML & IoT Platform with", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -807,4 +807,4 @@ function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.b8da9b6996ee0b69a5dc.hot-update.js.map
+//# sourceMappingURL=index.js.6fa3181473b7ef8b84c1.hot-update.js.map

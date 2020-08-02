@@ -177,7 +177,7 @@ function Index() {
       lineNumber: 65,
       columnNumber: 15
     }
-  }, "Develop", __jsx("br", {
+  }, "Enterprise", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -210,14 +210,14 @@ function Index() {
       lineNumber: 80,
       columnNumber: 15
     }
-  }, "Develop Machine Learning for", __jsx("br", {
+  }, "Develop ML & IoT using", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 88,
       columnNumber: 17
     }
-  }), "Economic Systems Design!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
+  }), "Cloud Edge Computing!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
     as: "section",
     pt: 5,
     pb: 6,
@@ -807,4 +807,4 @@ function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.2643e7523298ea2e4683.hot-update.js.map
+//# sourceMappingURL=index.js.d196cd9bdd99fac513fd.hot-update.js.map

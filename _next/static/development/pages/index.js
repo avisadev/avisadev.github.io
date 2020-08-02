@@ -11071,7 +11071,7 @@ function Index() {
       lineNumber: 80,
       columnNumber: 15
     }
-  }, "Develop ML & IoT using", __jsx("br", {
+  }, "ML & IoT Platform based on", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,

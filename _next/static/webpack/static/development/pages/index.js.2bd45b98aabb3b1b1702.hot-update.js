@@ -177,28 +177,28 @@ function Index() {
       lineNumber: 65,
       columnNumber: 15
     }
-  }, "Autonomous", __jsx("br", {
+  }, "Develop", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 73,
       columnNumber: 17
     }
-  }), "Systems by", __jsx("br", {
+  }), "Machine Learning", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 75,
       columnNumber: 17
     }
-  }), "Cloud and", __jsx("br", {
+  }), "for Economic Systems", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 77,
       columnNumber: 17
     }
-  }), "Edge Computing"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Text"], {
+  }), "Design"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Text"], {
     sx: {
       fontSize: [2, 2, 2, 3],
       fontWeight: "medium",
@@ -217,7 +217,7 @@ function Index() {
       lineNumber: 88,
       columnNumber: 17
     }
-  }), "the Internet of Things (IoT)!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
+  }), "Economic Systems Design!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
     as: "section",
     pt: 5,
     pb: 6,
@@ -807,4 +807,4 @@ function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.cf29f6e347eb9ba180e3.hot-update.js.map
+//# sourceMappingURL=index.js.2bd45b98aabb3b1b1702.hot-update.js.map

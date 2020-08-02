@@ -11038,28 +11038,28 @@ function Index() {
       lineNumber: 65,
       columnNumber: 15
     }
-  }, "Autonomous", __jsx("br", {
+  }, "Develop", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 73,
       columnNumber: 17
     }
-  }), "Systems by", __jsx("br", {
+  }), "Machine Learning", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 75,
       columnNumber: 17
     }
-  }), "Cloud and", __jsx("br", {
+  }), "for Economic", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 77,
       columnNumber: 17
     }
-  }), "Edge Computing"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Text"], {
+  }), "Systems Design"), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Text"], {
     sx: {
       fontSize: [2, 2, 2, 3],
       fontWeight: "medium",
@@ -11071,14 +11071,14 @@ function Index() {
       lineNumber: 80,
       columnNumber: 15
     }
-  }, "Develop Machine Learning for", __jsx("br", {
+  }, "ML & IoT Platform using", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 88,
       columnNumber: 17
     }
-  }), "the Internet of Things (IoT)!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
+  }), "Cloud Edge Computing!"))))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Container"], {
     as: "section",
     pt: 5,
     pb: 6,

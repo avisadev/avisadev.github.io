@@ -10977,7 +10977,7 @@ function Index() {
       lineNumber: 33,
       columnNumber: 17
     }
-  }, "AVISA Platform")))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Flex"], {
+  }, "AVISA")))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Flex"], {
     sx: {
       flexDirection: ["column-reverse",, "row"]
     },
@@ -11071,7 +11071,7 @@ function Index() {
       lineNumber: 80,
       columnNumber: 15
     }
-  }, "Make ML & IoT Solutions with", __jsx("br", {
+  }, "AVISA ML & IoT Platfrom with", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,

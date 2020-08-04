@@ -10981,7 +10981,7 @@ function Index() {
     }
   }, "AVISA Platform")))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Flex"], {
     sx: {
-      flexDirection: ["column-reverse",, "row"]
+      flexDirection: ["column-reverse", null, "row"]
     },
     __self: this,
     __source: {
@@ -10991,7 +10991,7 @@ function Index() {
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Box"], {
     sx: {
-      flex: ["1 1 auto",, "0 0 50%"],
+      flex: ["1 1 auto", null, "0 0 50%"],
       px: 2,
       py: [2, 2, 3, 4]
     },
@@ -11073,7 +11073,7 @@ function Index() {
       lineNumber: 80,
       columnNumber: 15
     }
-  }, "Scalable ML & IoT Platfrom with", __jsx("br", {
+  }, "Distributed ML & IoT based on", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -11094,7 +11094,7 @@ function Index() {
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Flex"], {
     sx: {
-      flexDirection: ["column",, "row"]
+      flexDirection: ["column", null, "row"]
     },
     __self: this,
     __source: {
@@ -11218,7 +11218,7 @@ function Index() {
     }
   }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam purus sit amet luctus venenatis lectus magna fringilla.")))), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Flex"], {
     sx: {
-      flexDirection: ["column",, "row"]
+      flexDirection: ["column", null, "row"]
     },
     __self: this,
     __source: {
@@ -11360,7 +11360,7 @@ function Index() {
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Flex"], {
     sx: {
-      flexDirection: ["column-reverse",, "row"],
+      flexDirection: ["column-reverse", null, "row"],
       pt: [4, 4, 0]
     },
     __self: this,
@@ -11371,7 +11371,7 @@ function Index() {
     }
   }, __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Box"], {
     sx: {
-      flex: ["1 1 auto",, "0 0 50%"],
+      flex: ["1 1 auto", null, "0 0 50%"],
       px: [2, 2, 3, 4],
       py: [2, 2, 3, 4]
     },
@@ -11503,11 +11503,11 @@ function Index() {
     }
   }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Ac odio tempor orci dapibus ultrices in iaculis. Ultrices in iaculis nunc sed augue lacus viverra. Mollis nunc sed id semper risus in hendrerit gravida. Cras pulvinar mattis nunc sed blandit libero. Justo donec enim diam vulputate ut pharetra sit. Gravida dictum fusce ut placerat orci. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Et molestie ac feugiat sed lectus. Turpis egestas integer eget aliquet nibh. Feugiat vivamus at augue eget arcu dictum varius. Nisi porta lorem mollis aliquam ut. Adipiscing at in tellus integer. Pellentesque elit ullamcorper dignissim cras tincidunt.")), __jsx(theme_ui__WEBPACK_IMPORTED_MODULE_3__["Box"], {
     sx: {
-      width: ["100%",,, "800px"],
-      position: [,,, "absolute"],
-      top: [,,, 0],
-      left: [,,, "70%"],
-      margin: ["64px 0 -60%",,, "-80px 0"]
+      width: ["100%", null, null, "800px"],
+      position: [null, null, null, "absolute"],
+      top: [null, null, null, 0],
+      left: [null, null, null, "70%"],
+      margin: ["64px 0 -60%", null, null, "-80px 0"]
     },
     __self: this,
     __source: {

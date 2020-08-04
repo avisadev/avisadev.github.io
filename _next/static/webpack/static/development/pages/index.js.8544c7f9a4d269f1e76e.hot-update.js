@@ -179,7 +179,7 @@ function Index() {
       lineNumber: 65,
       columnNumber: 15
     }
-  }, "Enterprise", __jsx("br", {
+  }, "Distributed", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -212,7 +212,7 @@ function Index() {
       lineNumber: 80,
       columnNumber: 15
     }
-  }, "Distributed ML & IoT based on", __jsx("br", {
+  }, "Develop ML & IoT based on", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -819,4 +819,4 @@ function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.8dc1c9b34d6e225db9b6.hot-update.js.map
+//# sourceMappingURL=index.js.8544c7f9a4d269f1e76e.hot-update.js.map

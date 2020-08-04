@@ -11040,7 +11040,7 @@ function Index() {
       lineNumber: 65,
       columnNumber: 15
     }
-  }, "Decentralized", __jsx("br", {
+  }, "Enterprise", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -11073,7 +11073,7 @@ function Index() {
       lineNumber: 80,
       columnNumber: 15
     }
-  }, "Develop ML & IoT based on", __jsx("br", {
+  }, "Decentralized ML & IoT based on", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -11679,7 +11679,7 @@ function Index() {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!*********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fnavid%2Favisa%2Fpwa.avisa%2Fpages%2Findex.js&hotRouterUpdates=true ***!
   \*********************************************************************************************************************************************/
@@ -11702,5 +11702,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

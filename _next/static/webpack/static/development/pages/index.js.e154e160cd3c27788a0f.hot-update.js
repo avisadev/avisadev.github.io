@@ -179,7 +179,7 @@ function Index() {
       lineNumber: 65,
       columnNumber: 15
     }
-  }, "Distributed", __jsx("br", {
+  }, "Decentralized", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -819,4 +819,4 @@ function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.8544c7f9a4d269f1e76e.hot-update.js.map
+//# sourceMappingURL=index.js.e154e160cd3c27788a0f.hot-update.js.map
